@@ -1,0 +1,5 @@
+# WebSocket Configuration
+websocket:
+  port: 8080
+  # true = localhost only, false = accessible from all interfaces
+  localhost-only: true
