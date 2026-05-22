@@ -4,3 +4,8 @@ main: com.kotikvorkotik.MCServerAPI
 api-version: '1.21'
 load: STARTUP
 authors: [ KoteVorkote ]
+
+commands:
+  test:
+    description: Test command that sends Success message
+    usage: /<command>
