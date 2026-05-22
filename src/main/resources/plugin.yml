@@ -1,0 +1,6 @@
+name: MCServerAPI
+version: '0.1-SNAPSHOT'
+main: com.kotikvorkotik.MCServerAPI
+api-version: '1.21'
+load: STARTUP
+authors: [ KoteVorkote ]
